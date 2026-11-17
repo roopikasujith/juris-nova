@@ -4,7 +4,6 @@
 
 Juris Nova is a web-based platform that brings legal and business support for early-stage Indian startups into one place. Many startups have no in-house legal team and cannot easily afford legal consultation, which leads to missed compliance deadlines, unclear contracts and uncertainty about government schemes. Juris Nova combines AI-assisted tools with transparent rule-based features to help founders.
 
-> ⚠️ **Disclaimer:** Juris Nova provides information and decision support only. It is not legal, tax or financial advice and does not replace a qualified legal professional.
 
 ---
 
